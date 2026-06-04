@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit — G6 ESL Teaching Materials</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>G6 ESL <span>Teaching Materials</span></h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="breadcrumb">
+      <a href="index.html">Home</a> &gt; <span id="breadcrumbUnit">Unit</span>
+    </div>
+
+    <div class="unit-header" id="unitHeader"></div>
+
+    <div id="materialsSections"></div>
+  </main>
+
+  <footer>
+    &copy; 2026 Alex Stewart — Changshu Lunhua Foreign Language School
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    // Load unit page
+    const params = new URLSearchParams(window.location.search);
+    const unit = params.get('unit') || 'U1';
+    loadUnitPage(unit);
+  </script>
+</body>
+</html>
