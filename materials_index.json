@@ -40,49 +40,19 @@
   "materials": {
     "U0": [
       {
-        "filename": "G6 U0 Quiz.pdf",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/G6 U0 Quiz.pdf",
-        "size": 54704
-      },
-      {
         "filename": "G6 U0 Quiz.docx",
         "type": "quiz",
         "path": "Term 1/Week 5:6/Worksheets/Word Originals/G6 U0 Quiz.docx",
         "size": 18383
+      },
+      {
+        "filename": "G6 U0 Quiz.pdf",
+        "type": "quiz",
+        "path": "Term 1/Unit Quizzes/G6 U0 Quiz.pdf",
+        "size": 54704
       }
     ],
     "U1": [
-      {
-        "filename": "G6 U1 Quiz.pdf",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/G6 U1 Quiz.pdf",
-        "size": 598843
-      },
-      {
-        "filename": "U1 quiz script.pdf",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/U1 quiz script.pdf",
-        "size": 29989
-      },
-      {
-        "filename": "G6 U1:2 Quiz.pdf",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/G6 U1:2 Quiz.pdf",
-        "size": 600682
-      },
-      {
-        "filename": "G6 U1 Quiz.docx",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/Word originals/G6 U1 Quiz.docx",
-        "size": 2315120
-      },
-      {
-        "filename": "U1 quiz script.docx",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/Word originals/U1 quiz script.docx",
-        "size": 16360
-      },
       {
         "filename": "W1 L2- Hamburger review.docx",
         "type": "review",
@@ -250,9 +220,7 @@
         "type": "worksheet",
         "path": "Term 1/Week 4/Homework/Colleen and the Leprechaun.pdf",
         "size": 4294790
-      }
-    ],
-    "U2": [
+      },
       {
         "filename": "Week 6- L2 Filler (1).pdf",
         "type": "worksheet",
@@ -284,12 +252,6 @@
         "size": 183834
       },
       {
-        "filename": "G6 U0 Quiz.docx",
-        "type": "quiz",
-        "path": "Term 1/Week 5:6/Worksheets/Word Originals/G6 U0 Quiz.docx",
-        "size": 18383
-      },
-      {
         "filename": "G6 LA W6 L1.pptx",
         "type": "lesson",
         "path": "Term 1/Week 5:6/Lesson Plans/G6 LA W6 L1.pptx",
@@ -312,44 +274,6 @@
         "type": "lesson",
         "path": "Term 1/Week 5:6/Lesson Plans/G6 LA W5 L2.pptx",
         "size": 14972337
-      }
-    ],
-    "U3": [
-      {
-        "filename": "U3 script.docx",
-        "type": "worksheet",
-        "path": "Term 1/Unit Quizzes/U3 script.docx",
-        "size": 16757
-      },
-      {
-        "filename": "U3 listening.mov",
-        "type": "audio",
-        "path": "Term 1/Unit Quizzes/U3 listening.mov",
-        "size": 7509029
-      },
-      {
-        "filename": "G6 U3 Quiz.pdf",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/G6 U3 Quiz.pdf",
-        "size": 841277
-      },
-      {
-        "filename": "G6 U3 Quiz.docx",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/G6 U3 Quiz.docx",
-        "size": 2315911
-      },
-      {
-        "filename": "U3 listening copy.m4a",
-        "type": "audio",
-        "path": "Term 1/Unit Quizzes/U3 listening copy.m4a",
-        "size": 7509029
-      },
-      {
-        "filename": "G6 U3 Quiz.docx",
-        "type": "quiz",
-        "path": "Term 1/Unit Quizzes/Word originals/G6 U3 Quiz.docx",
-        "size": 2315538
       },
       {
         "filename": "G6 LA W7 Mythical Beasts Project.pptx",
@@ -369,6 +293,26 @@
         "path": "Term 1/Week 7/Project writing template.pdf",
         "size": 176378
       },
+      {
+        "filename": "G6 U1 Quiz.pdf",
+        "type": "quiz",
+        "path": "Term 1/Unit Quizzes/G6 U1 Quiz.pdf",
+        "size": 598843
+      },
+      {
+        "filename": "U1 quiz script.pdf",
+        "type": "quiz",
+        "path": "Term 1/Unit Quizzes/U1 quiz script.pdf",
+        "size": 29989
+      },
+      {
+        "filename": "G6 U1:2 Quiz.pdf",
+        "type": "quiz",
+        "path": "Term 1/Unit Quizzes/G6 U1:2 Quiz.pdf",
+        "size": 600682
+      }
+    ],
+    "U2": [
       {
         "filename": "G6-LA-Unit 2 Week 8 L1-L3 Worksheets.pdf",
         "type": "worksheet",
@@ -398,9 +342,7 @@
         "type": "lesson",
         "path": "Term 1/Week 8/Lesson Plans/G6 LA W8 L1.pptx",
         "size": 23825522
-      }
-    ],
-    "U4": [
+      },
       {
         "filename": "Week 9 worksheets.docx",
         "type": "worksheet",
@@ -454,9 +396,7 @@
         "type": "worksheet",
         "path": "Term 1/Week 10/Homework/WEEKLY CONTENT-G6-W10.docx",
         "size": 67826
-      }
-    ],
-    "U5": [
+      },
       {
         "filename": "L2 and 3 worksheets.pdf",
         "type": "worksheet",
@@ -583,6 +523,228 @@
         "path": "Term 1/Week 14/Lesson Plans/G6 LA W14 L3.pptx",
         "size": 38933398
       },
+      {
+        "filename": "G6 LA W15 Content.docx",
+        "type": "worksheet",
+        "path": "Term 1/Week 15/G6 LA W15 Content.docx",
+        "size": 3481062
+      },
+      {
+        "filename": "Week 15 all worksheets.pdf",
+        "type": "worksheet",
+        "path": "Term 1/Week 15/Worksheets/Week 15 all worksheets.pdf",
+        "size": 64825
+      },
+      {
+        "filename": "Week 15 all worksheets.docx",
+        "type": "worksheet",
+        "path": "Term 1/Week 15/Worksheets/Week 15 all worksheets.docx",
+        "size": 24994
+      },
+      {
+        "filename": "G6 LA W15 L1.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 15/Lesson Plans/G6 LA W15 L1.pptx",
+        "size": 77110091
+      },
+      {
+        "filename": "G6 LA W15 L3.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 15/Lesson Plans/G6 LA W15 L3.pptx",
+        "size": 6836633
+      },
+      {
+        "filename": "G6 LA W15 L2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 15/Lesson Plans/G6 LA W15 L2.pptx",
+        "size": 98523324
+      },
+      {
+        "filename": "LA-W16 All Worksheets.docx",
+        "type": "worksheet",
+        "path": "Term 1/Week 16/Worksheets/LA-W16 All Worksheets.docx",
+        "size": 54994
+      },
+      {
+        "filename": "LA-W16 All Worksheets.pdf",
+        "type": "worksheet",
+        "path": "Term 1/Week 16/Worksheets/LA-W16 All Worksheets.pdf",
+        "size": 109554
+      },
+      {
+        "filename": "G6 LA W16 L3- Unit 2 Test.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 16/Lesson Plans/G6 LA W16 L3- Unit 2 Test.pptx",
+        "size": 1842184
+      },
+      {
+        "filename": "G6 LA W16 L1.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 16/Lesson Plans/G6 LA W16 L1.pptx",
+        "size": 4340677
+      },
+      {
+        "filename": "G6 LA W16 L2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 16/Lesson Plans/G6 LA W16 L2.pptx",
+        "size": 4815845
+      }
+    ],
+    "U3": [
+      {
+        "filename": "W17 all worksheets.pdf",
+        "type": "worksheet",
+        "path": "Term 1/Week 17/Worksheets/W17 all worksheets.pdf",
+        "size": 43038
+      },
+      {
+        "filename": "W17 all worksheets.docx",
+        "type": "worksheet",
+        "path": "Term 1/Week 17/Worksheets/W17 all worksheets.docx",
+        "size": 24114
+      },
+      {
+        "filename": "G6 LA W17 L1.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 17/Lesson Plans/G6 LA W17 L1.pptx",
+        "size": 7875205
+      },
+      {
+        "filename": "G6 LA W17 L2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 17/Lesson Plans/G6 LA W17 L2.pptx",
+        "size": 23681643
+      },
+      {
+        "filename": "G6 LA W17 L3.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 17/Lesson Plans/G6 LA W17 L3.pptx",
+        "size": 9457273
+      },
+      {
+        "filename": "G6 LA W18 L3.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 18/G6 LA W18 L3.pptx",
+        "size": 7533896
+      },
+      {
+        "filename": "LA-G6-W18 All Worksheets.pdf",
+        "type": "worksheet",
+        "path": "Term 1/Week 18/LA-G6-W18 All Worksheets.pdf",
+        "size": 30938
+      },
+      {
+        "filename": "G6 LA W18 L2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 18/G6 LA W18 L2.pptx",
+        "size": 9914835
+      },
+      {
+        "filename": "G6 LA W18 L1.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 18/G6 LA W18 L1.pptx",
+        "size": 10741415
+      },
+      {
+        "filename": "Unit 3 Quiz.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 19/Unit 3 Quiz.pptx",
+        "size": 2749670
+      },
+      {
+        "filename": "G6 LA W19 L2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 19/G6 LA W19 L2.pptx",
+        "size": 1031461
+      },
+      {
+        "filename": "G6 W19 content.docx",
+        "type": "worksheet",
+        "path": "Term 1/Week 19/G6 W19 content.docx",
+        "size": 4954807
+      },
+      {
+        "filename": "G6 LA W19 L1.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 19/G6 LA W19 L1.pptx",
+        "size": 4892157
+      },
+      {
+        "filename": "U3 script.docx",
+        "type": "worksheet",
+        "path": "Term 1/Unit Quizzes/U3 script.docx",
+        "size": 16757
+      },
+      {
+        "filename": "U3 listening.mov",
+        "type": "audio",
+        "path": "Term 1/Unit Quizzes/U3 listening.mov",
+        "size": 7509029
+      },
+      {
+        "filename": "G6 U3 Quiz.pdf",
+        "type": "quiz",
+        "path": "Term 1/Unit Quizzes/G6 U3 Quiz.pdf",
+        "size": 841277
+      },
+      {
+        "filename": "G6 U3 Quiz.docx",
+        "type": "quiz",
+        "path": "Term 1/Unit Quizzes/G6 U3 Quiz.docx",
+        "size": 2315911
+      },
+      {
+        "filename": "U3 listening copy.m4a",
+        "type": "audio",
+        "path": "Term 1/Unit Quizzes/U3 listening copy.m4a",
+        "size": 7509029
+      }
+    ],
+    "U4": [
+      {
+        "filename": "LA G6 W20 L1 Review Unit 0-2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 20/LA G6 W20 L1 Review Unit 0-2.pptx",
+        "size": 7767057
+      },
+      {
+        "filename": "LA G6 Review Lesson Units 3&4.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 20/LA G6 Review Lesson Units 3&4.pptx",
+        "size": 17185208
+      },
+      {
+        "filename": "LA-G6-W20-All Worksheets.pdf",
+        "type": "worksheet",
+        "path": "Term 1/Week 20/LA-G6-W20-All Worksheets.pdf",
+        "size": 438715
+      },
+      {
+        "filename": "G6 LA W21 L1.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 21/G6 LA W21 L1.pptx",
+        "size": 141270947
+      },
+      {
+        "filename": "Week 21 worksheets.docx",
+        "type": "worksheet",
+        "path": "Term 1/Week 21/Week 21 worksheets.docx",
+        "size": 26595
+      },
+      {
+        "filename": "G6 LA W21 L2.pptx",
+        "type": "lesson",
+        "path": "Term 1/Week 21/G6 LA W21 L2.pptx",
+        "size": 53270207
+      },
+      {
+        "filename": "Week 21 worksheets.pdf",
+        "type": "worksheet",
+        "path": "Term 1/Week 21/Week 21 worksheets.pdf",
+        "size": 93473
+      }
+    ],
+    "U5": [
       {
         "filename": "Grade 6 LA W1 L1.pptx",
         "type": "lesson",
@@ -738,75 +900,105 @@
         "type": "lesson",
         "path": "Week 4/G6 LA W4 L4.pptx",
         "size": 3445253
+      },
+      {
+        "filename": "Heart Planning.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Heart Planning.pdf",
+        "size": 797674
+      },
+      {
+        "filename": "LA-G6-W12 LA-Science Writing Project.pptx",
+        "type": "lesson",
+        "path": "Science fair stuff/LA-G6-W12 LA-Science Writing Project.pptx",
+        "size": 2423229
+      },
+      {
+        "filename": "Fayre graphics.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Fayre graphics.pdf",
+        "size": 2916660
+      },
+      {
+        "filename": "Kidneys writing template.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Kidneys writing template.pdf",
+        "size": 81934
+      },
+      {
+        "filename": "arrow.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/arrow.pdf",
+        "size": 3059
+      },
+      {
+        "filename": "Heart writing template.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Heart writing template.pdf",
+        "size": 42614
+      },
+      {
+        "filename": "Scan Planning.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Scan Planning.pdf",
+        "size": 286090
+      },
+      {
+        "filename": "Scan descriptions.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Scan descriptions.pdf",
+        "size": 246473
+      },
+      {
+        "filename": "Kidney Planning.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Kidney Planning.pdf",
+        "size": 206621
+      },
+      {
+        "filename": "L2 and 3 worksheets.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Worksheets/L2 and 3 worksheets.pdf",
+        "size": 93611
+      },
+      {
+        "filename": "The Rhythm of the Beat Worksheet.pdf",
+        "type": "worksheet",
+        "path": "Science fair stuff/Worksheets/The Rhythm of the Beat Worksheet.pdf",
+        "size": 503609
+      },
+      {
+        "filename": "L2 and 3 worksheets.docx",
+        "type": "worksheet",
+        "path": "Science fair stuff/Worksheets/L2 and 3 worksheets.docx",
+        "size": 35887
+      },
+      {
+        "filename": "The Rhythm of the Beat Worksheet.docx",
+        "type": "worksheet",
+        "path": "Science fair stuff/Worksheets/The Rhythm of the Beat Worksheet.docx",
+        "size": 587860
+      },
+      {
+        "filename": "G6 LA W11 L3.pptx",
+        "type": "lesson",
+        "path": "Science fair stuff/PPTS/G6 LA W11 L3.pptx",
+        "size": 93379606
+      },
+      {
+        "filename": "G6 LA W11 L2.pptx",
+        "type": "lesson",
+        "path": "Science fair stuff/PPTS/G6 LA W11 L2.pptx",
+        "size": 13035822
+      },
+      {
+        "filename": "G6 LA W11 L1.pptx",
+        "type": "lesson",
+        "path": "Science fair stuff/PPTS/G6 LA W11 L1.pptx",
+        "size": 36408408
       }
     ],
     "U6": [
-      {
-        "filename": "G6 LA W15 Content.docx",
-        "type": "worksheet",
-        "path": "Term 1/Week 15/G6 LA W15 Content.docx",
-        "size": 3481062
-      },
-      {
-        "filename": "Week 15 all worksheets.pdf",
-        "type": "worksheet",
-        "path": "Term 1/Week 15/Worksheets/Week 15 all worksheets.pdf",
-        "size": 64825
-      },
-      {
-        "filename": "Week 15 all worksheets.docx",
-        "type": "worksheet",
-        "path": "Term 1/Week 15/Worksheets/Week 15 all worksheets.docx",
-        "size": 24994
-      },
-      {
-        "filename": "G6 LA W15 L1.pptx",
-        "type": "lesson",
-        "path": "Term 1/Week 15/Lesson Plans/G6 LA W15 L1.pptx",
-        "size": 77110091
-      },
-      {
-        "filename": "G6 LA W15 L3.pptx",
-        "type": "lesson",
-        "path": "Term 1/Week 15/Lesson Plans/G6 LA W15 L3.pptx",
-        "size": 6836633
-      },
-      {
-        "filename": "G6 LA W15 L2.pptx",
-        "type": "lesson",
-        "path": "Term 1/Week 15/Lesson Plans/G6 LA W15 L2.pptx",
-        "size": 98523324
-      },
-      {
-        "filename": "LA-W16 All Worksheets.docx",
-        "type": "worksheet",
-        "path": "Term 1/Week 16/Worksheets/LA-W16 All Worksheets.docx",
-        "size": 54994
-      },
-      {
-        "filename": "LA-W16 All Worksheets.pdf",
-        "type": "worksheet",
-        "path": "Term 1/Week 16/Worksheets/LA-W16 All Worksheets.pdf",
-        "size": 109554
-      },
-      {
-        "filename": "G6 LA W16 L3- Unit 2 Test.pptx",
-        "type": "lesson",
-        "path": "Term 1/Week 16/Lesson Plans/G6 LA W16 L3- Unit 2 Test.pptx",
-        "size": 1842184
-      },
-      {
-        "filename": "G6 LA W16 L1.pptx",
-        "type": "lesson",
-        "path": "Term 1/Week 16/Lesson Plans/G6 LA W16 L1.pptx",
-        "size": 4340677
-      },
-      {
-        "filename": "G6 LA W16 L2.pptx",
-        "type": "lesson",
-        "path": "Term 1/Week 16/Lesson Plans/G6 LA W16 L2.pptx",
-        "size": 4815845
-      },
       {
         "filename": "LA-G6-Week 5-L1 WKSHT.pdf",
         "type": "worksheet",
@@ -830,6 +1022,12 @@
         "type": "worksheet",
         "path": "Week 5/LA-G6-Week 5-L1 WKSHT.docx",
         "size": 22786
+      },
+      {
+        "filename": "Unit 5 Test Listening Audio.mp3",
+        "type": "quiz",
+        "path": "Week 5/Unit 5 Test Listening Audio.mp3",
+        "size": 603360
       },
       {
         "filename": "G6 LA W5 L2.pptx",
@@ -1055,6 +1253,12 @@
       }
     ],
     "U7": [
+      {
+        "filename": "U7 test audio.MP3",
+        "type": "quiz",
+        "path": "Week 8/Recordings/U7 test audio.MP3",
+        "size": 2727233
+      },
       {
         "filename": "LA-G6-Week 9- Lesson 1.pptx",
         "type": "lesson",
