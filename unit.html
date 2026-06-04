@@ -22,7 +22,9 @@
       <a href="index.html">Home</a> &gt; <span id="breadcrumbUnit">Unit</span>
     </div>
 
-    <div class="unit-header" id="unitHeader"></div>
+    <div class="unit-header" id="unitHeader">
+      <p>Loading...</p>
+    </div>
 
     <div id="materialsSections"></div>
   </main>
@@ -33,7 +35,6 @@
 
   <script src="js/main.js"></script>
   <script>
-    // Load unit page
     const params = new URLSearchParams(window.location.search);
     const unit = params.get('unit') || 'U1';
     loadUnitPage(unit);

@@ -42,23 +42,24 @@ function getFileExt(filename) {
   return filename.split('.').pop().toLowerCase();
 }
 
-// Load materials data and render
-async function loadMaterials() {
-  try {
-    const resp = await fetch('materials_index.json');
-    return await resp.json();
-  } catch (e) {
-    console.error('Failed to load materials:', e);
-    return { units: {}, materials: {} };
+// Load materials data using synchronous XHR (works with local files)
+function loadMaterialsSync() {
+  const xhr = new XMLHttpRequest();
+  xhr.open('GET', 'materials_index.json', false); // synchronous
+  xhr.send();
+  if (xhr.status === 200) {
+    return JSON.parse(xhr.responseText);
   }
+  console.error('Failed to load materials_index.json');
+  return { units: {}, materials: {} };
 }
 
 // Render home page unit grid
-async function loadHomePage() {
+function loadHomePage() {
   const grid = document.getElementById('unitGrid');
   if (!grid) return;
 
-  const data = await loadMaterials();
+  const data = loadMaterialsSync();
   const units = data.units || {};
   const materials = data.materials || {};
 
@@ -95,8 +96,8 @@ async function loadHomePage() {
 }
 
 // Render unit page
-async function loadUnitPage(unitId) {
-  const data = await loadMaterials();
+function loadUnitPage(unitId) {
+  const data = loadMaterialsSync();
   const units = data.units || {};
   const materials = data.materials || {};
 
@@ -109,10 +110,8 @@ async function loadUnitPage(unitId) {
     return;
   }
 
-  // Breadcrumb
   document.getElementById('breadcrumbUnit').textContent = `${unitId} — ${info.topic}`;
 
-  // Header
   document.getElementById('unitHeader').innerHTML = `
     <h2 style="color:${color}">${unitId} — ${info.topic}</h2>
     <div class="topic">${info.language}</div>
@@ -120,7 +119,6 @@ async function loadUnitPage(unitId) {
   `;
   document.getElementById('unitHeader').style.setProperty('--unit-color', color);
 
-  // Group files by type
   const byType = {};
   files.forEach(f => {
     if (!byType[f.type]) byType[f.type] = [];
@@ -168,7 +166,7 @@ async function loadUnitPage(unitId) {
   }
 }
 
-// Auto-detect page and load accordingly
+// Auto-detect page and load
 document.addEventListener('DOMContentLoaded', () => {
   if (document.getElementById('unitGrid')) {
     loadHomePage();
